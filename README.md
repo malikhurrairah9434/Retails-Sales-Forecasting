@@ -16,7 +16,7 @@ The analysis uses a real-world online retail dataset and demonstrates how to:
 ## Dataset
 
 - The dataset contains transaction records of an online retail store.  
-- Key columns include: `Customer ID`, `InvoiceDate`, `InvoiceNo`, `Quantity`, and `Price`.
+- Key columns include: `Customer ID`, `InvoiceDate`, `Invoice`, `Quantity`, and `Price`.
 
 ---
 
